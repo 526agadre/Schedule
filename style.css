@@ -1,0 +1,11 @@
+body {
+  background: #f8f9fa;
+}
+.card-custom {
+  transition: transform 200ms ease, box-shadow 200ms ease;
+}
+.card-custom:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+}
+#status .alert { margin-bottom: 0; }

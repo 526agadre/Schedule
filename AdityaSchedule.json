@@ -1,0 +1,7 @@
+[
+  {"className":"AP Calculus AB","teacher":"Ms. Nguyen","roomNumber":"304","period":1,"subjectArea":"Math"},
+  {"className":"English 11","teacher":"Mr. Patel","roomNumber":"210","period":2,"subjectArea":"English"},
+  {"className":"Chemistry","teacher":"Dr. Kim","roomNumber":"118","period":3,"subjectArea":"Science"},
+  {"className":"World History","teacher":"Ms. Lopez","roomNumber":"401","period":4,"subjectArea":"Social Studies"},
+  {"className":"Spanish II","teacher":"Sra. Gomez","roomNumber":"132","period":5,"subjectArea":"World Language"}
+]

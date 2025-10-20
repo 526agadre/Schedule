@@ -1,0 +1,7 @@
+[
+  {"className":"Physics","teacher":"Dr. Yang","roomNumber":"120","period":1,"subjectArea":"Science"},
+  {"className":"Pre-Calculus","teacher":"Mr. O'Neil","roomNumber":"304","period":2,"subjectArea":"Math"},
+  {"className":"Creative Writing","teacher":"Ms. Rivera","roomNumber":"211","period":3,"subjectArea":"English"},
+  {"className":"Economics","teacher":"Mr. Shah","roomNumber":"405","period":4,"subjectArea":"Social Studies"},
+  {"className":"Choir","teacher":"Mrs. Kim","roomNumber":"Music","period":5,"subjectArea":"Arts"}
+]
