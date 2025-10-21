@@ -1,7 +1,0 @@
-[
-  {"className":"Biology","teacher":"Mr. Rivera","roomNumber":101,"period":1,"subjectArea":"Science"},
-  {"className":"Algebra II","teacher":"Ms. Chen","roomNumber":"207","period":2,"subjectArea":"Math"},
-  {"className":"English 11","teacher":"Mrs. Wright","roomNumber":"210","period":3,"subjectArea":"English"},
-  {"className":"Art Studio","teacher":"Mr. Long","roomNumber":"305","period":4,"subjectArea":"Arts"},
-  {"className":"PE","teacher":"Coach Adams","roomNumber":"Gym","period":5,"subjectArea":"Physical Education"}
-]

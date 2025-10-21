@@ -1,7 +1,0 @@
-[
-  {"className":"Geometry","teacher":"Ms. Patel","roomNumber":"215","period":1,"subjectArea":"Math"},
-  {"className":"Chemistry","teacher":"Dr. Stone","roomNumber":"118","period":2,"subjectArea":"Science"},
-  {"className":"US History","teacher":"Mr. Brown","roomNumber":"401","period":3,"subjectArea":"Social Studies"},
-  {"className":"Computer Science","teacher":"Ms. Allen","roomNumber":"220","period":4,"subjectArea":"Electives"},
-  {"className":"French I","teacher":"Mme. Dubois","roomNumber":"133","period":5,"subjectArea":"World Language"}
-]
