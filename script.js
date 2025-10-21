@@ -15,8 +15,8 @@ async function loadSchedule(fileName) {
   try {
     const response = await fetch(`./json/${fileName}`);
     if (!response.ok) throw new Error(`HTTP ${response.status} - ${response.statusText}`);
-
-    const data = await response.json();
+  }
+    const data = await response.json(); 
     data.sort((a, b) => a.period - b.period);
     status.innerHTML = '';
     const who = fileName.replace('Schedule.json', '');
@@ -34,6 +34,6 @@ async function loadSchedule(fileName) {
             </div>
           </div>
         </article>
-      `;
-      cards.insertAdjacentHTML('beforeend', html);
+    `;
     });
+  }
