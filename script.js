@@ -11,11 +11,6 @@ const schedules = {
   Ethan: 'json/Ethan.json'
 };
 
-// Load and display schedule
-async function loadSchedule(person) {
-  status.textContent = "Loading schedule...";
-  cards.innerHTML = '';
-
   const fileName = schedules[person];
   const response = await fetch(`${fileName}?t=${Date.now()}`);
   const data = await response.json();
