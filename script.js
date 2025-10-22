@@ -7,7 +7,7 @@ const pageTitle = document.getElementById('pageTitle');
 const schedules = {
   Aditya: 'json/Aditya.json',
   James: 'json/James.json',
-  Vincent: 'json/Vincent.json',
+  Sathvik: 'json/Sathvik.json',
   Ethan: 'json/Ethan.json'
 };
 
