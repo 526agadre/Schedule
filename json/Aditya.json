@@ -1,51 +1,51 @@
 [
     {
-        "className": "",
-        "teacher": "",
-        "roomNumber": "",
-        "period": "",
-        "subjectArea": ""
+        "className": "Graphic Design & Photography",
+        "teacher": "Russo, Danielle",
+        "roomNumber": "B106",
+        "period": "1",
+        "subjectArea": "Design Arts"
     },
     {
-        "className": "",
-        "teacher": "",
-        "roomNumber": "",
-        "period": "",
-        "subjectArea": ""
+        "className": "Video Editing & Production 1",
+        "teacher": "Werntz, William",
+        "roomNumber": "B106",
+        "period": "2",
+        "subjectArea": "Media Arts"
     },
     {
-        "className": "",
-        "teacher": "",
-        "roomNumber": "",
-        "period": "",
-        "subjectArea": ""
+        "className": "Technological Systems & Design",
+        "teacher": "Russo, Danielle",
+        "roomNumber": "B108",
+        "period": "3",
+        "subjectArea": "Design Arts"
     },
     {
-        "className": "",
-        "teacher": "",
-        "roomNumber": "",
-        "period": "",
-        "subjectArea": ""
+        "className": "Financial Literacy",
+        "teacher": "Morgan, Kevin",
+        "roomNumber": "A132",
+        "period": "4",
+        "subjectArea": "Business Education"
     },
     {
-        "className": "",
-        "teacher": "",
-        "roomNumber": "",
-        "period": "",
-        "subjectArea": ""
+        "className": "Physical Ed 12",
+        "teacher": "Walsh, Michael",
+        "roomNumber": "Gym",
+        "period": "5",
+        "subjectArea": "Physical Education"
     },
     {
-        "className": "",
-        "teacher": "",
-        "roomNumber": "",
-        "period": "",
-        "subjectArea": ""
+        "className": "English 4",
+        "teacher": "Carey, Jeanine",
+        "roomNumber": "D106",
+        "period": "6",
+        "subjectArea": "English"
     },
     {
-        "className": "",
-        "teacher": "",
-        "roomNumber": "",
-        "period": "",
-        "subjectArea": ""
+        "className": "Honors NJIT IS219 Advanced Website Development WDP",
+        "teacher": "Kilgore, Gregory",
+        "roomNumber": "B111",
+        "period": "7",
+        "subjectArea": "Computer Science"
     }
 ]

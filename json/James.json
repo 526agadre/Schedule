@@ -1,0 +1,58 @@
+[
+    {
+        "className": "English 4",
+        "teacher": "Weksler, Jennifer",
+        "roomNumber": "E100",
+        "period": "1",
+        "subjectArea": "English"
+    },
+    {
+        "className": "Criminology and Law",
+        "teacher": "Wisniewski, Matthew",
+        "roomNumber": "A105",
+        "period": "2",
+        "subjectArea": "Social Studies"
+    },
+    {
+        "className": "Financial Literacy",
+        "teacher": "Morgan, Kevin",
+        "roomNumber": "A132",
+        "period": "2",
+        "subjectArea": "Business"
+    },
+    {
+        "className": "Physical Ed 12 / Health 12",
+        "teacher": "Preston, Maggie",
+        "roomNumber": "GYM / C130",
+        "period": "3",
+        "subjectArea": "Physical Education / Health"
+    },
+    {
+        "className": "Public Speaking",
+        "teacher": "Bender, Alison",
+        "roomNumber": "A127",
+        "period": "4",
+        "subjectArea": "English Elective"
+    },
+    {
+        "className": "Honors Italian 4",
+        "teacher": "Raineri, Elena",
+        "roomNumber": "A205",
+        "period": "5",
+        "subjectArea": "World Language"
+    },
+    {
+        "className": "AP Calculus AB",
+        "teacher": "Daley, Cara",
+        "roomNumber": "E200",
+        "period": "6",
+        "subjectArea": "Mathematics"
+    },
+    {
+        "className": "Honors NJIT IS219 Advanced Website Development",
+        "teacher": "Kilgore, Gregory",
+        "roomNumber": "B111",
+        "period": "7",
+        "subjectArea": "Computer Science"
+    }
+]
